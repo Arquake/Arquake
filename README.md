@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Arquake
+- 👀 I’m interested in learning : How to code
+- 🌱 I’m currently learning : Python/Java/C++
+- 📫 How to reach me : @Arquake on Discord
