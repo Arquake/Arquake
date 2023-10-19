@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Arquake
-- 👀 I’m interested in learning : How to code
-- 🌱 I’m currently learning : Python/Java/C++
-- 📫 How to reach me : @Arquake on Discord
+- 📖 Second year student in Computer Science 
+- ⚒️ Python / Java / C# / C++ / PHP / SQL
+- 📫 How to reach me : @arquake on Discord
