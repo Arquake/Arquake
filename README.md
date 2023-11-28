@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arquake
+- 👋 Hi, I’m Vera Nicolas
 - 📖 Second year student in Computer Science 
 - ⚒️ Python / Java / C# / C++ / PHP / SQL
-- 📫 How to reach me : @arquake on Discord
+- 📫 How to reach me : @arquake on Discord | nicolas-vera@orange.fr
