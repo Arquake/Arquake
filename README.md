@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vera Nicolas
-- 📖 Second year student in Computer Science 
-- ⚒️ Python / Java / C# / C++ / PHP / SQL
-- 📫 How to reach me : @arquake on Discord | nicolas-vera@orange.fr
+- 📖 Third year student in Computer Science 
+- ⚒️ Python / Java / C# / OCaml / PHP / JSX / SQL
+- 🛡️ React / React-native / Symfony / pgsql / MySql
+- 📫 nicolas-vera@orange.fr
