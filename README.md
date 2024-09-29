@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Vera Nicolas
-- 📖 Third year student in Computer Science 
-- ⚒️ Python / Java / C# / OCaml / PHP / JSX / SQL
-- 🛡️ React / React-native / Symfony / pgsql / MySql
+- 📖 Third year student in Computer Science
+- Programming Languages : JAVA / C# / OCaml / PHP / JSX / SQL / JS / TS / HTML / CSS / PYTHON / SCSS
+- Tools : GitHub / VSCode / JetBrains / Tailwind
+- Back-End : Symfony / Express.js / Laravel / Postgresql / MySql
+- Front-End : React / React-native / Svelte / Vue3 / Nuxt / Angular
 - 📫 nicolas-vera@orange.fr
