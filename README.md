@@ -4,4 +4,4 @@
 - Tools : GitHub / VSCode / JetBrains / Tailwind
 - Back-End : Symfony / Express.js / Laravel / Postgresql / MySql
 - Front-End : React / React-native / Svelte / Vue3 / Nuxt / Angular
-- 📫 nicolas-vera@orange.fr
+- 📫 nicolas@veras.fr
